@@ -44,7 +44,7 @@ cargo run
 
 Expected output:
 
-```
+```text
 Prompt: Add 5 and 3
 Agent Response: The result is 8.00
 Prompt: Subtract 10 from 15
@@ -59,7 +59,7 @@ Agent Response: I am sorry, I cannot perform multiplication. I can only perform 
 
 ## Project Structure
 
-```
+```text
 yart-example/
 ├── Cargo.toml          # Project metadata and dependencies
 ├── src/
